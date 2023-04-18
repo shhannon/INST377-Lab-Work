@@ -52,6 +52,7 @@ async function mainEvent() { // the async keyword means we can make API requests
       simply won't work.
     */
     console.table(currentList); 
+
   });
 
 
